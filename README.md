@@ -4,11 +4,13 @@
 This project is my personal portfolio website, showcasing my skills, projects, and experiences. Built using HTML, CSS, JavaScript, and Bootstrap, it provides a clean and interactive way for visitors to learn more about me and my work.
 
 ## Features
-- **About Me:** A brief introduction to who I am, my skills, and my passions.
-- **Projects:** Display of my notable projects with descriptions, technologies used, and links to their repositories or live demos.
-- **Skills:** Highlighting the programming languages, frameworks, and tools I am proficient in.
-- **Resume:** A link to my resume or a downloadable PDF for users to learn more about my professional background.
-- **Contact:** Various ways for visitors to get in touch with me, such as through a contact form or links to social media.
+# Features
+- Fully Responsive
+- Mobile Navigations
+- Animated elements on scroll
+- Smooth scrolling in each section.
+- Sticky Navigation on scrolling
+- and more ..
 
 ## Technologies Used
 - HTML
